@@ -65,7 +65,7 @@ void main() {
 
   // 람다식
   var lambdaAdd = (int a, int b) => a + b;
-  print(${lambdaAdd(6,5)});
+  print('${lambdaAdd(6,5)}');
 
 
   // for문
